@@ -9,4 +9,15 @@
 
 # print(x)
 
-#Con trole de fluxo
+#Controle de fluxo
+
+
+quantidde = 40
+preco = -20
+
+if quantidde > 0 and preco > 0:
+    print ("Dentro dos parametros")
+else:
+    print ("Fora dos parametros")
+
+
